@@ -1,46 +1,65 @@
-<h2 align="left">Hi 👋! I'm Denis Jamil, a Systems Engineering student . Passionate about backend development with Java and Spring Boot.</h2>
+<h1 align="center">Hi 👋, I'm Denis Jamil</h1>
 
-###
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+Scalable+Systems;Always+Learning+New+Things" />
+</h3>
 
-<img align="right" height="150" src="https://pa1.aminoapps.com/6740/727d0d71a9bd0c9ce3aa2a541c48cc0d3e7c05c8_hq.gif"  />
+---
 
-###
+<img align="right" height="200" src="https://pa1.aminoapps.com/6740/727d0d71a9bd0c9ce3aa2a541c48cc0d3e7c05c8_hq.gif" />
 
+### 👨‍💻 About Me
+- 🎓 Systems Engineering Student  
+- ⚙️ Backend Developer (Java & Spring Boot)  
+- 🧠 Focused on APIs, databases & scalable systems  
+- 🚀 Building real-world projects  
+
+---
+
+### 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,html,css,bootstrap,python,git,intellij,arduino" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/d_jamthx?igsh=YWt4dHQydzNtN28w" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Djamth&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djamth&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Djamth&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Djamth/Djamth/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<div align="center">
+  <a href="https://www.instagram.com/d_jamthx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100008863934702" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://www.facebook.com/profile.php?id=100008863934702">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </div>
 
-###
+---
+
+### ⚡ Fun Fact
+```diff
++ I turn coffee ☕ into backend systems 🚀
